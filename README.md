@@ -1,3 +1,8 @@
+#### REPO HERE: https://github.com/IntellegixLabs/RobloxOS-Rokernel
+Note: Licensing is diffrent for that edition.
+
+The additioned Dependancies and software is subject to a different license.
+
 # RobloxOS
 The new open source Roblox operating system made _from the ground up_ because yes.
 
